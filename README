@@ -1,0 +1,33 @@
+# 🛡️ Home SIEM with Wazuh
+
+## 📖 Project Overview
+
+This project demonstrates the deployment of a Home Security Information and Event Management (SIEM) lab using Wazuh on Ubuntu Server running in VirtualBox.
+
+The purpose of this lab is to gain hands-on experience in security monitoring, log collection, endpoint management, and incident detection within a simulated Security Operations Center (SOC) environment.
+
+---
+
+## 🎯 Objectives
+
+- Deploy Ubuntu Server in VirtualBox
+- Install and configure Wazuh
+- Connect Windows endpoints
+- Monitor security events
+- Analyze Windows Event Logs
+- Detect suspicious activity
+- Learn SOC analyst workflows
+
+---
+
+## 🛠️ Technologies Used
+
+- Ubuntu Server
+- Wazuh
+- VirtualBox
+- Windows
+- Linux
+- Sysmon (Coming Soon)
+
+
+
